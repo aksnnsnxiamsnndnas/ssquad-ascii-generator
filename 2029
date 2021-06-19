@@ -1,0 +1,6 @@
+
+# import pyfiglet module
+import pyfiglet
+  
+result = pyfiglet.figlet_format("PON UN TEXTO AQUI.")
+print(result)
